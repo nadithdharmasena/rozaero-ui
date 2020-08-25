@@ -4,4 +4,4 @@ Rozaero is a cooperative playlist generator that allows guests to influence the 
 
 ## Demo
 
-![](Rozaero\ Demo.gif)
+![](Rozaero-Demo.gif)
