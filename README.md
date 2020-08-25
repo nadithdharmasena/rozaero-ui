@@ -2,14 +2,6 @@
 
 Rozaero is a cooperative playlist generator that allows guests to influence the composition and order of an event's playlist.
 
-## Problem Statement
-
-Event organizers have to construct playlists to fulfill their event's music needs. Traditionally, a small group of organizers assemble the playlist. They fill it with their favorite songs and, unfortunately, their potentially unpopular taste in music.
-
-This system of playlist management presents a couple of problems. Most obviously, it leaves open the risk that guests simply dislike the playlist. More importantly, the system offers guests no way to voice their concerns and forces them to leave the event feeling disappointed. This lack of satisfaction among guests can translate into lower interest and revenues in the future.
-
-Luckily, Rozaero's cooperative playlist format introduces an innovative solution to this problem.
-
 ## Demo
 
 The following GIFs display some functionalities of the Rozaero mobile application.
