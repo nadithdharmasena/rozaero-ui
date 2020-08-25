@@ -27,3 +27,7 @@ Although it is not readily apparent, readers should note that the demo showcases
 Here, we can see the user "James Johnson" creating a new Rozaero account. Once James completes his registration, Rozaero sends him an email containing a confirmation code. James uses this confirmation code to validate his email address and activate his account. Finally, he logs in to his newly created account and sees that his current location falls within John Smith's "Fall Bash 2020" access region.
 
 ![](Rozaero-Registration-Validation.gif)
+
+## Notes
+
+The API used to facilitate this mobile application's operations is located at [Rozaero API](https://github.com/nadithdharmasena/rozaero-api).
